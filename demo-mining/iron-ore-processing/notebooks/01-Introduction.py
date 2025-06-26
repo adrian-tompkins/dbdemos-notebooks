@@ -11,7 +11,7 @@
 # MAGIC Froth flotation is a common method used to separate silica (SiO₂) from iron-bearing minerals like hematite or magnetite. The goal is to reduce the silica content in the iron ore concentrate, improving the ore's quality for steel production.
 # MAGIC
 # MAGIC <div style="text-align: center;">
-# MAGIC   <img src="../demo_setup/images/FlotationProcess.jpg" width="400px"/> 
+# MAGIC   <img src="../_resources/images/FlotationProcess.jpg" width="400px"/> 
 # MAGIC <p><em>Figure 1: The process of froth flotation. Source: https://www.sciencedirect.com/topics/earth-and-planetary-sciences/flotation-froth</em></p>
 # MAGIC </div>
 # MAGIC

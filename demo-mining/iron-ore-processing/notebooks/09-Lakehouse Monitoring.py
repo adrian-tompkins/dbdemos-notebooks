@@ -7,7 +7,7 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC ![](../demo_setup/images/DataQuality.png)
+# MAGIC ![](../_resources/images/DataQuality.png)
 
 # COMMAND ----------
 
@@ -36,4 +36,4 @@
 # MAGIC example
 # MAGIC https://e2-demo-field-eng.cloud.databricks.com/sql/dashboardsv3/01f04b92317816e6b3b79d59009cba33?o=1444828305810485
 # MAGIC
-# MAGIC # ![](../demo_setup/images/LakehouseMonitoring.png)
+# MAGIC # ![](../_resources/images/LakehouseMonitoring.png)

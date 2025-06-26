@@ -12,7 +12,7 @@
 # MAGIC ### Custom Data and AI Applications
 # MAGIC
 # MAGIC <div style="text-align: center;">
-# MAGIC   <img src="../demo_setup/images/databricks_app.png" width="1000px"/> 
+# MAGIC   <img src="../_resources/images/databricks_app.png" width="1000px"/> 
 # MAGIC </div>
 # MAGIC
 # MAGIC ### Serverless Infrastructure - Built in Governance

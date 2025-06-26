@@ -208,3 +208,4 @@ def gold_iron_ore_prediction_dataset():
 # MAGIC <div style="text-align: center;">
 # MAGIC   <img src="../_resources/images/Aveva_connect_2.png" width="800px"/> 
 # MAGIC </div>
+../_resources/images../_resources/images../_resources/images../_resources/images../_resources/images

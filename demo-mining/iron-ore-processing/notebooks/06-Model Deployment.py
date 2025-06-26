@@ -7,7 +7,7 @@
 # MAGIC # 4. 🚀 Model Serving
 # MAGIC
 # MAGIC <div style="text-align: center;">
-# MAGIC   <img src="../demo_setup/images/model_serving.png" width="1200px"/> 
+# MAGIC   <img src="../_resources/images/model_serving.png" width="1200px"/> 
 # MAGIC </div>
 
 # COMMAND ----------
@@ -37,7 +37,7 @@
 # MAGIC
 # MAGIC To accomplish this we will leverage best practice with **CICD** (continuous integration, continuous deployment) to automatically deploy our model once a new version is registered into unity catalog. We accomplish this via **Deployment Jobs.**
 # MAGIC
-# MAGIC ![](../demo_setup/images/simple-deployment-job.png)
+# MAGIC ![](../_resources/images/simple-deployment-job.png)
 # MAGIC
 # MAGIC Our Deployment job has the below steps:
 # MAGIC - Approve model deployment
@@ -45,7 +45,7 @@
 # MAGIC
 # MAGIC This process is fully automated, all it requires is someone to approve the deployment after the job detects a new model version has been registered.
 # MAGIC
-# MAGIC ![](../demo_setup/images/deployment_approval.png)
+# MAGIC ![](../_resources/images/deployment_approval.png)
 # MAGIC
 # MAGIC See documentation here: [Deployment Jobs](https://docs.databricks.com/aws/en/mlflow/deployment-job)
 # MAGIC
